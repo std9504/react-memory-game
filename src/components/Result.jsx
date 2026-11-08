@@ -5,7 +5,7 @@ import '../App.css'
 
 export default function Result({result}) {
 
-    const {res, resColor} = result ? {res: "You Win", resColor: "rgb(21, 203, 21)"} : {res: "You Lose", resColor: "red"}
+    const {res, resColor} = result ? {res: "이김!!", resColor: "rgb(21, 203, 21)"} : {res: "실패...", resColor: "red"}
 
     return (
         <div className="result">
