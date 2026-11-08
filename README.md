@@ -1,3 +1,60 @@
+# Assign10 박은별 22300308
+
+## README.md & Weekly Review
+
+1. Project Information: 프로젝트 소개, 선택 이유, 원본 GitHub URL 및 라이선스
+2. Installation: 설치·실행 방법 및 실행 화면
+3. Source Code Exploration: 주요 파일, 컴포넌트, 코드 분석
+Project Structure: 주요 파일 2~3개의 역할
+React Component: 주요 컴포넌트 1~2개의 역할
+Code Analysis: 코드 1개(약 5~15줄)를 선택하여 동작 원리 설명
+4. Customizing: 수정한 3가지 내용, 수정 파일명 및 전/후 결과
+5. Deployment: 실제 접근 가능한 Vercel URL
+6. Weekly Review:
+새롭게 배운 내용 3가지
+어려웠던 점과 해결 방법
+AI 활용 내용 및 느낀 점
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Memory Game
 
 A fun and engaging memory game built with React. Test your memory skills by matching pairs of blocks with the same icons. The game includes a timer and keeps track of your attempts.
